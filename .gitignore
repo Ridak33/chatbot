@@ -1,0 +1,13 @@
+# Python virtual environment
+venv/
+
+# Environment variables file with secrets
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# other files
+crediantials.json
+.gspread/
